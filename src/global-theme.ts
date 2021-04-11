@@ -2,7 +2,7 @@ import { DefaultTheme } from 'styled-components';
 
 const globalTheme: DefaultTheme = {
   colors: {
-    main: '#f4f9f9',
+    main: '#bec4c4',
     secondary: '#ccf2f4',
   },
   sizes: {
